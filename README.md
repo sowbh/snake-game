@@ -13,3 +13,14 @@ Working:
 4. A new design and shape of this fruit are revealed each time the window is opened.
 
 To run this .py file use vscode and run it in terminal.
+
+Outputs:
+
+
+
+
+![1689175821164](https://github.com/sowbh/snake-game/assets/95527211/3b62e2d7-7f9f-48d3-998e-9c2e918d9482)
+
+
+![1689175821156](https://github.com/sowbh/snake-game/assets/95527211/6a2ea227-3ed5-4c8c-9fd6-08eb55e81c9d)
+
