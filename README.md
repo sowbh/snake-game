@@ -1,4 +1,4 @@
-Snake Game using Python 
+Snake Game using Python:
 For beginners in Python and those seeking to create something simpler in their field can test this program. The module called Turtle was specifically designed to be used for beginners to play with and submit a program of the project. This project is written using Python 3.0.
 
 A game that is based on Python with these modules:
