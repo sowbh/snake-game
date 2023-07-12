@@ -12,7 +12,7 @@ Working:
 3. Examining the snake's head for collides with body or side of the screen, the game will automatically restart immediately following the collision.
 4. A new design and shape of this fruit are revealed each time the window is opened.
 
-To run this .py file use vscode and run it in terminal.
+To run this .py file use vscode and run it in the terminal.
 
 Outputs:
 
