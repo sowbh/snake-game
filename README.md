@@ -8,7 +8,7 @@ A game that is based on Python with these modules:
 
 Working:
 1. The key that controls the snake's movement is When we click on the terms commonly used in gaming, such as "w" for upwards, "s" for downwards, "a" towards left, and "v" towards right, we will be able to control the snake's movement around the screen.
-2. The snake's body will expand body after eating the fruits.
+2. The snake's body will expand after eating the fruits.
 3. Examining the snake's head for collides with body or side of the screen, the game will automatically restart immediately following the collision.
 4. A new design and shape of this fruit are revealed each time the window is opened.
 
